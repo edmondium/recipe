@@ -1,0 +1,92 @@
+commit 706f313115d3d66f07e7b1a6eb83114440a3a478
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Sun Apr 10 20:08:08 2022 +0700
+
+    learning stash
+
+commit 18229aef6a7b0a790979a9210e47f5868cddaabb
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Thu Mar 24 07:53:15 2022 +0100
+
+    last change
+
+commit 937e9560c5105a0bacb3f3ec34d1a8d4830654c3
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Thu Mar 24 07:52:08 2022 +0100
+
+    first change
+
+commit 1c79a2d0030385dd1bff167f39a5022283375079
+Merge: ec63b2f 73ebd1a
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Thu Mar 24 06:24:12 2022 +0100
+
+    Merge branch 'dislike-cilantro'
+
+commit 73ebd1a3e33762999b3be9d728066f2013609cab
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Thu Mar 24 06:14:38 2022 +0100
+
+    dislike cilantro
+
+commit ec63b2fc5fd0245f423a1b8732f36ccbfb2c120e
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Thu Mar 24 06:13:13 2022 +0100
+
+    like cilantro
+
+commit 876ba14ec8b7284bcd70aa7d89bb9d1eee952f68
+Merge: c033665 5c49b3b
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Thu Mar 24 05:43:15 2022 +0100
+
+    Merge branch 'less-salt'
+
+commit c033665c2bb7e9d7b3731f1b86d911786a0d822d
+Merge: a310a6b 144cf3b
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Thu Mar 24 05:41:42 2022 +0100
+
+    Merge branch 'experiment'
+
+commit a310a6b2a214e6a03f15ba2abc3041291aad52bb
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Thu Mar 24 05:14:49 2022 +0100
+
+    draft a readme
+
+commit 5c49b3b0a4b8adf4e6d1e373724fdf1baabc8600
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Thu Mar 24 05:09:57 2022 +0100
+
+    reduce amount of salt
+
+commit 144cf3b6ee5a6364e85459ea877c69f48441b4d2
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Thu Mar 24 04:56:28 2022 +0100
+
+    maybe little bit less cilantro
+
+commit 6cb882baa3babe52577dfdcb96630c9fabac1e4d
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Thu Mar 24 04:55:36 2022 +0100
+
+    let us try with some cilantro
+
+commit f553b6f96c4bac0e7a0854a872e932906cb26aea
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Thu Mar 24 04:25:07 2022 +0100
+
+    don't forget to enjoy
+
+commit 797a1d951cb9f381954f3c4bc5aef46c7d367e57
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Thu Mar 24 04:24:42 2022 +0100
+
+    add half an onion
+
+commit e85a5570bbf6536dcd06893145d335e520e8f894
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Thu Mar 24 04:21:24 2022 +0100
+
+    adding ingredients and instructions

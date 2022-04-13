@@ -1,0 +1,13 @@
+* When should you work with branches?
+The answer is when people cannot pursue and record two development efforts in one branch. This is a good point, however, the "isolation" purpose is made to isolate a development effort, not to isolate a "resource". For instance, a branch called "vonC" means nothing to another collaborator. What if "vonC" leaves the project? What are collaborators to do with it? A branch called "bugfix_212" can be interpreted in the context of a bug tracking system, and any collaborator can use it with at least some idea about what he is supposed to do with it.
+
+* What is the difference between a git clone and a git fork?
+A fork is a copy of a repository that allows people to freely experiment with changes without affecting the original project. A drawback of forking is a fork acts as a bridge between the original repository and people's personal copy.
+A clone is pulling down a full copy of all the repository data that git has at that point in time, including all versions of every file and folder for the project. The drawback is people will not be able to pull down changes from the original repository people cloned from, and if the project is owned by someone else, people will not be able to contribute back to it unless people are specifically invited as collaborator.
+
+* What is the difference between a fork and a branch?
+A fork is a duplicate copy of someone else's project, whereas a branch is a version of a repository. There is no fundamental difference between the two, except branching typically is a cloning operation in git executed on a single repository, while forking creates a full copy of the original repository without affecting the main repository.
+
+* What advantages and disadvantages to code review can you imagine/list?
+- Keeping reviews from getting too personal.
+- Collaborators can review code much more quickly when they have a 'checklist' of things to look out for.
